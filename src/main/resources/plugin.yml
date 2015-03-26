@@ -1,0 +1,5 @@
+name: BukkitBetterPluginMessagingTest
+version: 1.0-SNAPSHOT
+main: io.quintus.betterpluginmessaging.test.BukkitBetterPluginMessagingTest
+depend:
+ - BukkitBetterPluginMessaging

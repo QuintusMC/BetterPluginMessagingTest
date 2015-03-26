@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BukkitBetterPluginMessaging">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BukkitBetterPluginMessaging/out/artifacts/BukkitBetterPluginMessaging_jar/BukkitBetterPluginMessaging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BetterPluginMessagingTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BetterPluginMessagingTest_jar</output-path>
+    <root id="archive" name="BetterPluginMessagingTest.jar">
+      <element id="module-output" name="BetterPluginMessagingTest" />
+    </root>
+  </artifact>
+</component>
